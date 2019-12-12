@@ -1,0 +1,58 @@
+2019-12-13 00:09:32,732 : WARNING : __main__ : Something is not right.
+2019-12-13 00:09:32,734 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:09:32,734 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:11:21,268 : WARNING : __main__ : Something is not right.
+2019-12-13 00:11:21,268 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:11:21,268 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:11:22,866 : WARNING : __main__ : Something is not right.
+2019-12-13 00:11:22,866 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:11:22,867 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:12:07,589 : WARNING : __main__ : Something is not right.
+2019-12-13 00:12:07,595 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:12:07,595 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:14:58,223 : WARNING : __main__ : Something is not right.
+2019-12-13 00:14:58,224 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:14:58,224 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:14:58,224 : WARNING : globalVar : sssssssSomething is not right.
+2019-12-13 00:14:58,224 : ERROR : globalVar : A ssnksjcMajor error has happened.
+2019-12-13 00:14:58,224 : CRITICAL : globalVar :    dgdggdFatal error. Cannot continue
+2019-12-13 00:15:49,711 : INFO : __main__ : An info message
+2019-12-13 00:15:49,711 : WARNING : __main__ : Something is not right.
+2019-12-13 00:15:49,711 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:15:49,711 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:15:49,711 : WARNING : globalVar : sssssssSomething is not right.
+2019-12-13 00:15:49,711 : ERROR : globalVar : A ssnksjcMajor error has happened.
+2019-12-13 00:15:49,711 : CRITICAL : globalVar :    dgdggdFatal error. Cannot continue
+2019-12-13 00:16:22,598 : INFO : __main__ : An info message
+2019-12-13 00:16:22,598 : WARNING : __main__ : Something is not right.
+2019-12-13 00:16:22,598 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:16:22,598 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:16:22,598 : WARNING : globalVar : sssssssSomething is not right.
+2019-12-13 00:16:22,599 : ERROR : globalVar : A ssnksjcMajor error has happened.
+2019-12-13 00:16:22,599 : CRITICAL : globalVar :    dgdggdFatal error. Cannot continue
+2019-12-13 00:17:41,507 : INFO : __main__ : An info message
+2019-12-13 00:17:41,507 : WARNING : __main__ : Something is not right.
+2019-12-13 00:17:41,507 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:17:41,508 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:17:41,508 : WARNING : globalVar : sssssssSomething is not right.
+2019-12-13 00:17:41,508 : ERROR : globalVar : A ssnksjcMajor error has happened.
+2019-12-13 00:17:41,508 : CRITICAL : globalVar :    dgdggdFatal error. Cannot continue
+2019-12-13 00:17:54,576 : INFO : __main__ : An info message
+2019-12-13 00:17:54,577 : WARNING : __main__ : Something is not right.
+2019-12-13 00:17:54,577 : ERROR : __main__ : A Major error has happened.
+2019-12-13 00:17:54,577 : CRITICAL : __main__ : Fatal error. Cannot continue
+2019-12-13 00:17:54,577 : WARNING : globalVar : sssssssSomething is not right.
+2019-12-13 00:17:54,577 : ERROR : globalVar : A ssnksjcMajor error has happened.
+2019-12-13 00:17:54,577 : CRITICAL : globalVar :    dgdggdFatal error. Cannot continue
+2019-12-13 00:25:40,648 : WARNING : __main__ : 2
+2019-12-13 00:26:07,077 : WARNING : __main__ : 2
+2019-12-13 00:27:58,953 : WARNING : __main__ : a: 3
+2019-12-13 00:28:43,175 : WARNING : __main__ : a: 2
+2019-12-13 00:29:17,222 : WARNING : __main__ : b: 10
+2019-12-13 00:29:44,694 : WARNING : __main__ : b: 10
+2019-12-13 00:29:47,730 : WARNING : __main__ : b: 10
+2019-12-13 00:30:04,191 : WARNING : __main__ : b: 2222
+2019-12-13 00:30:46,560 : WARNING : __main__ : b: 6
+2019-12-13 00:31:22,423 : WARNING : __main__ : b: 6
+2019-12-13 00:31:25,319 : WARNING : __main__ : b: 6
+2019-12-13 00:31:31,605 : WARNING : __main__ : b: 2222
